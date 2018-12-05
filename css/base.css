@@ -1,3 +1,6 @@
 body {
-    background-color: red;
+    background-color: green;
+}
+.nav {
+    height: 40px;
 }
